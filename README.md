@@ -1,5 +1,10 @@
-# Nordigen Node.js Library
+# This package is (hopefully) temporary
 
+`@lilianaa/nordigen-node` is just a temporary package, see https://github.com/nordigen/nordigen-node/pull/53
+
+As the PR is waiting to be merged, this package is just available in the meantime. 
+
+# Nordigen Node.js Library
 
 This is official Node client library for [GoCardless Bank Account Data](https://gocardless.com/bank-account-data/).
 
