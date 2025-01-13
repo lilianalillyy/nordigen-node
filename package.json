@@ -1,6 +1,6 @@
 {
   "name": "@lilianaa/nordigen-node",
-  "version": "2.0.0-6",
+  "version": "2.0.0-7",
   "description": "Nordigen official API client for Node.js",
   "main": "dist/index.cjs",
   "module": "dist/index.esm.js",
